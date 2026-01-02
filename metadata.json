@@ -1,0 +1,5 @@
+{
+  "name": "WebGuide AI Agent",
+  "description": "An autonomous agent interface that analyzes websites and generates comprehensive user guides in PDF format using Google Gemini and Search Grounding.",
+  "requestFramePermissions": []
+}
